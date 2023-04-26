@@ -1,3 +1,10 @@
 *.a
+*.d
 *.o
-main
+*~
+*swp
+*.tmp
+bin/geometry
+test/test
+.vscode/
+*.log
