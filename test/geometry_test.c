@@ -1,6 +1,6 @@
 #include <ctest.h>
 
-#include "calculate_circle.c"
+#include <calculate_circle.c>
 
 CTEST(calculate, perimetr)
 {
